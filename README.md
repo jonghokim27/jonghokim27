@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=jonghokim27&fontSize=70&animation=twinkling)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonghokim27)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>Tech Stacks</h3>
 
@@ -41,6 +42,4 @@ Department of Computer Science & Engineering, Soongsil University (2022/03 ~ )
 <br>
 
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonghokim27)](https://github.com/anuraghazra/github-readme-stats)
-
 
