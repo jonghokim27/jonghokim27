@@ -40,3 +40,7 @@ Department of Computer Science & Engineering, Soongsil University (2022/03 ~ )
 </p>
 <br>
 
+<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonghokim27&theme=dark&show_icons=true)
+
+
