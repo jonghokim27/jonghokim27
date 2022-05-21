@@ -27,7 +27,7 @@
 <h3>About Me</h3>
 
 <div align="center" style="text-align:center">
-Department of Computer Science & Engineering, Soongsil University (2022/03 ~ )
+Department of Computer Science & Engineering, Soongsil University
  
   
 </div>
