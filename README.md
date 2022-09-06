@@ -38,7 +38,7 @@ Department of Computer Science & Engineering, Soongsil University
 
 <h3>Contact</h3>
 <p align="center">
-  <a href="https://www.instagram.com/jonghokim27/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jonghokim27/"/></a>&nbsp
+joey0307@naver.com
 </p>
 <br>
 
